@@ -2,7 +2,7 @@ ______________________________________________________________________
 
 <div align="center">
 
-# Fast-IceNet
+# RT-IceNet
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
@@ -21,8 +21,8 @@ code is coming soon
 
 ```bash
 # clone project
-git clone https://github.com/cqg99/Fast-IceNet
-cd Fast-IceNet
+git clone https://github.com/cqg99/RT-IceNet
+cd RT-IceNet
 
 # [OPTIONAL] create conda environment
 conda create -n myenv python=3.9
@@ -39,8 +39,8 @@ pip install -r requirements.txt
 
 ```bash
 # clone project
-git clone https://github.com/cqg99/Fast-IceNet
-cd Fast-IceNet
+git clone https://github.com/cqg99/RT-IceNet
+cd RT-IceNet
 
 # create conda environment and install dependencies
 conda env create -f environment.yaml -n myenv
